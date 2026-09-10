@@ -164,11 +164,14 @@ pip install opencv-python numpy
 
 ## 🚀 Run the Project
 
+```bash
 Clone the repository:
 
-```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone https://github.com/Ayushi081005/Harry_Potter.git
+
+Move into the project folder:
+
+cd Harry_Potter
 ```
 
 Run:
@@ -239,12 +242,10 @@ Computer vision can be a little too literal. 😭
 ## 📁 Project Structure
 
 ```text
-Invisibility-Cloak/
+Harry_Potter/
 │
-├── invisibility_cloak.py
-├── requirements.txt
-├── README.md
-└── output.avi        # generated after running
+├── Invisibility_cloak.py
+└── README.md
 ```
 
 ---
