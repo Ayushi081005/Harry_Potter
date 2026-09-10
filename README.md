@@ -318,15 +318,6 @@ The Ministry of Magic has not approved this software. 🧙‍♂️
 
 ---
 
-## 📜 License
-
-MIT License
-
-Feel free to fork it, modify it, experiment with it, and add your own magic.
-
-> *“Any sufficiently advanced technology is indistinguishable from magic.”*
-
----
 
 ### ⭐ If you enjoyed this little experiment
 
